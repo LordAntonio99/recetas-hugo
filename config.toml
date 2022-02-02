@@ -4,6 +4,7 @@ defaultContentLanguage = "es"
 title = 'Recetas'
 headerTitle = 'Recetas'
 theme = 'dream'
+publishDir = "docs"
 
 [params]
   background = "#f7f7f7"
