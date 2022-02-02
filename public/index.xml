@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recetas</title>
+    <link>http://localhost/</link>
+    <description>Recent content on Recetas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 02 Feb 2022 12:41:57 +0100</lastBuildDate><atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Falafel</title>
+      <link>http://localhost/posts/falafel/</link>
+      <pubDate>Wed, 02 Feb 2022 12:41:57 +0100</pubDate>
+      
+      <guid>http://localhost/posts/falafel/</guid>
+      <description>&lt;p&gt;Receta adaptada de los originales falafeles de oriente.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Me</title>
+      <link>http://localhost/about/me/</link>
+      <pubDate>Wed, 02 Feb 2022 12:35:13 +0100</pubDate>
+      
+      <guid>http://localhost/about/me/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Migas Thermomix</title>
+      <link>http://localhost/posts/migas/</link>
+      <pubDate>Wed, 02 Feb 2022 11:56:11 +0100</pubDate>
+      
+      <guid>http://localhost/posts/migas/</guid>
+      <description>&lt;p&gt;Receta original.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

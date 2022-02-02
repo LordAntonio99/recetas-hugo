@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aperitivos on Recetas</title>
+    <link>http://localhost/tags/aperitivos/</link>
+    <description>Recent content in aperitivos on Recetas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 02 Feb 2022 12:41:57 +0100</lastBuildDate><atom:link href="http://localhost/tags/aperitivos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Falafel</title>
+      <link>http://localhost/posts/falafel/</link>
+      <pubDate>Wed, 02 Feb 2022 12:41:57 +0100</pubDate>
+      
+      <guid>http://localhost/posts/falafel/</guid>
+      <description>&lt;p&gt;Receta adaptada de los originales falafeles de oriente.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

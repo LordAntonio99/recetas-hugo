@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Recetas</title>
+    <link>http://localhost/categories/</link>
+    <description>Recent content in Categories on Recetas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 02 Feb 2022 12:41:57 +0100</lastBuildDate><atom:link href="http://localhost/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>internacional</title>
+      <link>http://localhost/categories/internacional/</link>
+      <pubDate>Wed, 02 Feb 2022 12:41:57 +0100</pubDate>
+      
+      <guid>http://localhost/categories/internacional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>category1</title>
+      <link>http://localhost/categories/category1/</link>
+      <pubDate>Wed, 02 Feb 2022 11:56:11 +0100</pubDate>
+      
+      <guid>http://localhost/categories/category1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
